@@ -11,6 +11,8 @@
 - 📫 How to reach me: t.me/ictnovin_ir
 - 😄 Pronouns: He/Him
 
+- امنیت نسبی است مثل رضایت از زندگی ...
+
 
 <!---
 rasgari/rasgari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
