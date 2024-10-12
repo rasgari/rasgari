@@ -1,6 +1,6 @@
 💫 About Me:
 
-- 👋 Hi, I’m @rasgari
+- 👋 Hi, I’m @rezaasgari
 - 👀 I’m interested in penetration test
 - 🌱 I’m currently learning
 - 🚀 Always exploring and learning.
@@ -12,6 +12,7 @@
 - 😄 Pronouns: He/Him
 
 - امنیت نسبی است مثل رضایت از زندگی ...
+- ساده‌ترین راه حمایت از ما کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
 
 
 <!---
