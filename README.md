@@ -13,7 +13,8 @@
 - 📫 How to reach me: t.me/ictnovin_ir
 - 😄 Pronouns: He/Him
 
-(https://img.shields.io/badge/bug%20hunter%20-8A2BE2)
+
+
 - ساده‌ترین راه حمایت از من کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
 
 
