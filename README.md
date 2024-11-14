@@ -5,7 +5,7 @@
 
 
 
-<img align="right" alt="penetration test" width ="400" src="https://www.synacktiv.com/sites/default/files/2020-03/TEST-INTRUSION%252B.gif" >
+<img align="right" alt="penetration test" width ="300" src="https://www.synacktiv.com/sites/default/files/2020-03/TEST-INTRUSION%252B.gif" >
 
 
 💫 About Me:
