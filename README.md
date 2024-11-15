@@ -39,6 +39,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasgari&show_icons=true&locale=en" alt="rasgari" /></p>
 
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasgari&" alt="rasgari" /></p>
+
+
 
 
 - ساده‌ترین راه حمایت از من کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
