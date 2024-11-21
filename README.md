@@ -19,7 +19,7 @@
 - 🤝 I’m looking to discover vulnerabilities on open source programs
 - 💬 Ask me about Penetration Testing & Bug Bounty
 - 📫 How to reach me: t.me/ictnovin_ir
-- 😄 Pronouns: He/Him
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasgari&label=Profile%20views&color=0e75b6&style=flat" alt="rasgari" /> </p>
