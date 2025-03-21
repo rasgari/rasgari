@@ -1,6 +1,6 @@
 <img align="center" alt="security" width = "1000"  src="https://pbs.twimg.com/profile_banners/1222045654907748359/1580193795/1080x360" >
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&random=true&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Reza+Asgari;Secure+Computing+MSC;Web+Application+Penetration+Tester" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img align="center" width = "1000" src="https://readme-typing-svg.demolab.com/?font=Jetbrains+Mono+Medium&size=28&duration=2700&pause=750&random=true&color=81a1c1&background=2e3440&center=true&vCenter=true&width=550&height=60&lines=Reza+Asgari;Secure+Computing+MSC;Web+Application+Penetration+Tester" alt="Typing SVG" /></a>
 
 
 
