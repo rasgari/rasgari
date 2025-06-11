@@ -282,3 +282,21 @@ https://ncr.ir/
 1420
 
 ==========================================================
+
+# link programming
+
+[stackoverflow](https://stackoverflow.com/questions)
+
+[github](https://github.com/)
+
+[gitlab](https://about.gitlab.com/)
+
+[kaggle](https://www.kaggle.com/)
+
+[paperswitchcode](https://paperswithcode.com/)
+
+[analyticsinsight](https://www.analyticsinsight.net/)
+
+==========================================================
+
+
