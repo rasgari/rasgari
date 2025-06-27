@@ -5,7 +5,7 @@
 
 
 
-امنیت نسبی است مثل رضایت از زندگی ...
+Security is relative, like satisfaction with life...
 
 
 
@@ -48,7 +48,7 @@
 
 
 
-- ساده‌ترین راه حمایت از من کلیک کردن روی ستاره (⭐) بالای همین صفحه است.
+- The easiest way to support me is to click on the star (⭐) at the top of this page.
 
 
 <!---
