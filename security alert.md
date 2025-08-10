@@ -86,3 +86,26 @@ https://free.drweb.ru/aid_admin - بازیابی سیستم اضطراری از 
 https://www.kaspersky.com/downloads/free-rescue-disk - بازیابی سیستم از دیسک از Kaspersky.
 
 =======================================
+
+هفت ابزار آنلاین برای #osint
+
+GHUNT - Google account info:
+اطلاعات حساب گوگل
+Sherlock - nickname enumeration:
+جستجوی حساب‌ها با نام کاربری
+Holehe - search accounts by email:
+جستجوی حساب‌ها با ایمیل
+Ignorant - search accounts by phone:
+جستجوی حساب‌ها با شماره تلفن
+Whois domain lookup: 
+جستجوی اطلاعات دامنه
+WhatsApp profile info:
+اطلاعات پروفایل واتساپ
+HudsonRock - email leaks lookup: 
+جستجوی نشتی ایمیل‌ها در هادسون راک
+
+osint.rocks
+
+
+======================================
+
