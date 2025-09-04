@@ -2,6 +2,6 @@
 
 ## software
 
-[ notion ](https://www.notion.so/)
+[ notion download ](https://www.notion.so/)
 
-[ obsidian ](https://obsidian.md/download)
+[ obsidian download ](https://obsidian.md/download)
