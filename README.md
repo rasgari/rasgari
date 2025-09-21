@@ -26,9 +26,10 @@ Security is relative, like satisfaction with life...
 <a href="https://www.youtube.com/@rasgariii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rasgari" height="30" width="40" /></a>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasgari&" alt="rasgari" /></p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rasgari" alt="rasgari" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasgari&" alt="rasgari" /></p>
 <img align="center" alt="security" width = "1000"  src="https://pbs.twimg.com/profile_banners/1222045654907748359/1580193795/1080x360" >
 
 
